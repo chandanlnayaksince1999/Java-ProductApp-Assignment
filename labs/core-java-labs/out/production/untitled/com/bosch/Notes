@@ -1,0 +1,16 @@
+== always compares the refrence
+
+and object.equals will comapare the content of the strings
+
+name.hashcode()
+--> gives the address of the object
+
+in java everything is an object
+
+
+Object[] skills = {new String("java"), new String("c++"), new object}
+
+string is string litteral constanct block
+
+array == { memory refrence --> it leads to give the exact value }
+
