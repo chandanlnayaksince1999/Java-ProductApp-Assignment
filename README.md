@@ -1,3 +1,3 @@
-# Java-Training BOSCH Bootcamp
+# Java-training-bootcamp-assignments
 
-this is repository for java i learned in my initial development days 
+This repo is to submit only core-java assignments
