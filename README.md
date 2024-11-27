@@ -4,7 +4,7 @@ This `README.md` file provides a comprehensive guide to understand the project, 
 
 # Product Management App
 
-## Assignment 01: Java Console Based Product Management Application
+##Java Console Based Product Management Application
 
 ### Overview
 This project is a console-based application designed to manage products using Java Collections and Multi-Threading. The application provides functionalities to add, update, delete, view products, and perform various statistical operations.
