@@ -1,4 +1,4 @@
-# Java-training-bootcamp-assignments
+# Java-training-bootcamp-assignment
 This repo is to submit only Bosch-java Training assignments
 This `README.md` file provides a comprehensive guide to understand the project, its functionalities, and how to get started with the application. If you have any more questions or need further details, feel free to ask!
 
