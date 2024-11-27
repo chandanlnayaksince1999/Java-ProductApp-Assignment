@@ -23,6 +23,15 @@ This project is a console-based application designed to manage products using Ja
 7. **Import**: Import product details from a file.
 8. **Export**: Export product details to a file.
 9. **Exit**: Exit the application.
+    
+
+### Import and Export Functionality
+Import: Read product details from a file and populate the product list.
+
+Export: Write current product details to a file for backup or sharing purposes.
+
+Multi-Threading
+Multi-threading can be used to handle concurrent imports and exports, ensuring the application remains responsive during these operations.
 
 ### Product Class
 ```java
@@ -43,11 +52,4 @@ public enum ProductCategory {
     STATIONARY
 }
 
-###Import and Export Functionality
-Import: Read product details from a file and populate the product list.
-
-Export: Write current product details to a file for backup or sharing purposes.
-
-Multi-Threading
-Multi-threading can be used to handle concurrent imports and exports, ensuring the application remains responsive during these operations.
 
