@@ -1,5 +1,5 @@
 # Java-training-bootcamp-assignments
-This repo is to submit only core-java assignments
+This repo is to submit only Bosch-java Training assignments
 This `README.md` file provides a comprehensive guide to understand the project, its functionalities, and how to get started with the application. If you have any more questions or need further details, feel free to ask!
 
 # Product Management App
@@ -7,7 +7,7 @@ This `README.md` file provides a comprehensive guide to understand the project, 
 ## Assignment 01: Java Console Based Product Management Application
 
 ### Overview
-This project is a console-based application designed to manage products using Java Collections and Multi-Threading. The application provides functionalities to add, update, delete, view products, and perform various statistical operations using the Stream API.
+This project is a console-based application designed to manage products using Java Collections and Multi-Threading. The application provides functionalities to add, update, delete, view products, and perform various statistical operations.
 
 ### Functionalities
 1. **Add Product**: Add a new product to the inventory.
